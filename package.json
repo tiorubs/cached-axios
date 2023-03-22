@@ -1,0 +1,14 @@
+{
+  "name": "cached-axios",
+  "version": "0.0.41",
+  "license": "MIT",
+  "main": "dist/index",
+  "devDependencies": {
+    "@types/node": "^18.11.8",
+    "tsx": "^3.12.6",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "axios": "0.27.2"
+  }
+}
